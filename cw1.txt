@@ -1,0 +1,4 @@
+--- zad. 1 ---
+CREATE DATABASE s298273
+    WITH 
+    OWNER = postgres;
