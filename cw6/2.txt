@@ -1,0 +1,1 @@
+nie możliwe ze względu na błąd przy zmianie opcji pomijania błędów geometrii, które występują przy podziale na warstwy
